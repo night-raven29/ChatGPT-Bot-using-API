@@ -1,1 +1,4 @@
 get your api key from platform.openai.com.
+then,
+paste it on line 43 of index.js file.
+const API_KEY = "";
