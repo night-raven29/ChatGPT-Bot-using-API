@@ -40,7 +40,7 @@ function sendMessage() {
     userInput.value = '';
 
     const API_URL = 'https://api.openai.com/v1/chat/completions'
-    const API_KEY = "sk-G1E3tPnfjt3nZvtt1PyZLnwypYDPqbtRgH7Xh6Zf4JT3BlbkFJeX3NGMH-dUj0qsSKj95kX_KqgHJlpieq6QgRWZNK0A";
+    const API_KEY = "";
     const options = {
         method: 'POST',
         headers: {
